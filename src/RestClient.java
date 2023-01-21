@@ -5,8 +5,6 @@ import java.net.URISyntaxException;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.HttpClients;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
